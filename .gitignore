@@ -1,8 +1,0 @@
-# Node paketlar
-node_modules/
-
-# Maxfiy sozlamalar
-.env
-
-# Log fayllar
-*.log
